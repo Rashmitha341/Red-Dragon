@@ -1,24 +1,21 @@
-{
-  "name": "RED DRAGON BOT",
-  "description": "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘔𝘋 | By: RED-DRAGONᵀᴹ | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
-  "repository": "https://github.com/prabhasha2006/Red-Dragon",
-  "logo": "https://i.ibb.co/VCtXyTK/20220730-002949.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ],
-   "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
-    }
-}
+
+2023 Theory Remainder 05
+1. ;rx. wdhdu mrdih 𝜆1 isg 𝜆2 nm jk ^𝜆1 < 𝜆2& oDIh wdf,dalhg wkqrEm f*dafgdakhl Yla;s 
+mrdih i|yd ksjeros m%ldYh jkafka ñka l=ulao@ ^h = ma,dkla ksh;h " c = wdf,dalfha m %fõ.h&
+(1) hc ( − ) ⨯ 109J (2) hc ( − ) ⨯ 109J (3) hc ( ) ⨯ 10-19J
+(4) hc ( ) ⨯ 10-19J (5) hc ( − ) ⨯ 10-19J
+2 my; i|yk a tajdh sk a yhsv %ck aj, mrudK ql j¾kdj,sh ms<sn\j i;H fkdjk m %ldY fudkjdo@
+a) n=4 isg n=2 ixl %uKh HB f¾Ldjg wk qrEm fõ
+b) n=∞ iy n=1 uÜgï w;r Yl a;s fjki yhsv %ck aj, whk slrK Yl a;sh fõ
+c) j¾Kdj,sfh a tl a tl a f¾Ldj H- mrudKqfõ Yl a;s uÜgulg wk qrEm fõ
+d) n=2 iy n=1 uÜgï w;r Yl a;s fjki Yl a;s fjki n=2 iy n=2 uÜgï w;r Yl a;s fjkig jvd l =vdh
+(1) (a) iy (b) (2) (b) iy (c) (3) (c) iy (d) (4) (a) iy (c) (5) (b) , (c) iy (d)
+04' H mrudKqfõ m<uq bf,lafg%d aksl Yla;s uÜgï my 1 rEmfh a ±lafjh s' (n = 1, 2, 3, 4, 5)
+H mrudKqfõ úfudapk bf,lafg%dksl j¾Kdj,sfha f¾Ld yhla 2 rEmfh a ±l afjh s'
+A1, A2 yd A3 hkq fuu úfudapk j¾Kdj,sfha tlu fY%aKshlg wh;a m<uq f¾Ld ;=kh s' 
+B1, B2 yd B3 hkq tu úfudapk j¾Kdj,sfh a B<Õ fY%aKsfha m<uq f¾Ld ;=kh s'
+(i) 2 rEmfh a wvx.= j¾Kdj,s f¾Ld yhg wkqrEm bf,lafg%daksl ixl%uK fmkaùug 1 rEmfha 
+we;s Yla; s uÜgï w;r B;, yhla w¢kak
+(ii) tu B;, A1, A2, A3, B1, B2 yd B3 jYfhka iqÿiq wdldrhg 1 rEmfha meyeÈ,sj kï lrkak'
+(iii) my; i|yka jdlHfh a" jryka ;=< we;s WÑ; fkdjk jpkh lmd  yßkak' 
+A1 isg B3 olajd j¾Kdj,s f¾Ldj, ixLHd; {jeäfjh s $ wv qfjh s}
